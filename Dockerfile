@@ -1,4 +1,4 @@
-FROM python:3.12-rc-alpine3.16
+FROM python:3.9-alpine3.13
 LABEL maintainer="outCastSid"
 
 ENV PYTHONUNBUFFERED 1
