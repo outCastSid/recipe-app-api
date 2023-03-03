@@ -4,10 +4,10 @@ Calculator functions
 
 
 def add(x, y):
-    """ Add x and y and return result."""
+    """Add x and y and return result."""
     return x + y
 
 
 def subtract(x, y):
-    """Add x from y and return result."""
+    """Subrtact x from y and return result."""
     return y - x
